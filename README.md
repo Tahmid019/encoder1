@@ -1,3 +1,2 @@
-# clone1
-
-Python module generated with custom template.
+# encoder1
+Voice Encoder Implementation of Rezembler
